@@ -1,0 +1,10 @@
+
+Crie a base no bando de dados com o nome igual do persistense :-)
+Para rodar a migração acesse a pasta do projeto no terminal e digite o comando
+mvn compile flyway:migrate
+
+Obs: java 1.8
+
+
+
+
